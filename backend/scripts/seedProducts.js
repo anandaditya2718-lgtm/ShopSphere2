@@ -14,6 +14,7 @@ const seedProducts = [
     bestseller: true,
     date: Date.now()
   },
+  
   {
     name: 'Women Slim Fit Jeans',
     description: 'Comfortable stretch denim with modern fit.',
